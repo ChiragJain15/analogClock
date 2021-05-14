@@ -1,2 +1,3 @@
-# analogClock
-a basic repsonsive analof clock
+# Analog-Clock
+A basic repsonsive analog clock
+⏰ github pages - https://chiragjain15.github.io/analogClock/
